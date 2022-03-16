@@ -1,0 +1,90 @@
+.footer {
+  background-color: #252a2bcb;
+  padding: 50px 0 40px 0;
+  box-shadow: $box-shadow;
+  font-size: 1.3rem;
+  color: white;
+  font-weight: 400;
+
+  &__logo {
+    margin-bottom: 1rem;
+
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      width: 90%;
+    }
+  }
+
+  &__about {
+    p {
+      margin-bottom: 2rem;
+    }
+  }
+
+  &__title {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.86rem;
+    margin-bottom: 2.5rem;
+    font-weight: 600;
+  }
+
+  &__content {
+    margin-bottom: 1.15rem;
+    color: #f7e8e8;
+    line-height: 2rem;
+    text-align: center;
+  }
+
+  &__content__info {
+    cursor: pointer;
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+
+    i {
+      font-size: 2rem;
+      font-weight: lighter;
+    }
+  }
+
+  &__content__info:hover {
+    color: rgb(66, 60, 60);
+  }
+
+  &__icon__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    button {
+      margin-top: 1.5rem;
+      width: 40px;
+      height: 40px;
+      border-radius: 30px;
+      border: none;
+      margin-right: 0.5rem;
+      background-color: #50a38233;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #a84f5b;
+    }
+
+    i {
+      color: white;
+      font-size: 1.7rem;
+      text-align: center;
+    }
+  }
+}
