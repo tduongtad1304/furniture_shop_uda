@@ -1,0 +1,41 @@
+.policy-card {
+  @include flex(center, flex-start);
+  border-radius: 3rem;
+  padding: 20px;
+  padding-left: 0;
+  box-shadow: $box-shadow;
+  transition: transform 0.7s ease-out;
+  background-color: rgba(0, 255, 255, 0.082);
+
+  &:hover {
+    transform: translateY(-30px);
+  }
+
+  &__icon {
+    @include flex(center, center);
+    width: 50%;
+    color: #239e65;
+
+    i {
+      font-size: 3rem;
+    }
+  }
+
+  &__icon:hover {
+    transform: translateX(5px);
+    transition: transform 0.3s ease-in-out;
+  }
+
+  &__info {
+    &__name {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    &__description {
+      font-size: 1.18rem;
+      color: $txt-second-color;
+    }
+  }
+}
