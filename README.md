@@ -12,7 +12,7 @@
 </p>
 <br>
 
-## Main contents: 🔍 [**Main concept**](https://github.com/tduongtad1304/furniture_shop_uda#main-concept), [**📕 User manual**](https://github.com/tduongtad1304/furniture_shop_uda#user-manual), [**💁‍♂️ Contributors**](https://github.com/tduongtad1304/furniture_shop_uda#contributors)
+## Main contents: 🔍 [**Main concept**](https://github.com/tduongtad1304/furniture_shop_uda#-main-concept), [**📕 User manual**](https://github.com/tduongtad1304/furniture_shop_uda#-user-manual), [**💁‍♂️ Contributors**](https://github.com/tduongtad1304/furniture_shop_uda#%EF%B8%8F-contributors)
 <br>
 
 ## 🔍 **Main concept**
@@ -89,6 +89,7 @@ https://user-images.githubusercontent.com/70565731/158550427-58d43c83-1196-4b7d-
 <br>
 
 ## **📕 User manual**
+ <br>
 
 ### 1. Going through the Github link of this project:
 <br>
