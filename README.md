@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/70565731/158550427-58d43c83-1196-4b7d-
     <a href="https://github.com/tduongtad1304"><img alt="" src="https://user-images.githubusercontent.com/70565731/158561614-1b768059-1d85-4a47-b82e-aa204028d871.png"/></a>
 <br/>
 
-<summary><b>Products Descriptions (when users click on a products)</b></summary>
+<summary><b>Products Descriptions (when users click on a product)</b></summary>
 <br/>
   <p align="center">
     <a href="https://github.com/tduongtad1304"><img alt="" src="https://user-images.githubusercontent.com/70565731/158561822-1a32f313-7090-4380-a51f-7903c80ff943.png"/></a>
@@ -101,12 +101,20 @@ https://user-images.githubusercontent.com/70565731/158550427-58d43c83-1196-4b7d-
 
 ### b. Clone this repo by typing: ```git clone https://github.com/tduongtad1304/furniture_shop_uda.git```
 ### c. After cloning succesfully, for VSCode instance, just open it by typing: ```code .```
-
+<br>
+     
 ### d. 📽️ Demo Usage:
-https://user-images.githubusercontent.com/70565731/158564551-4945d7c0-6b53-49de-84b4-43c1f1f3dcf4.mp4
+     
+
+
+https://user-images.githubusercontent.com/70565731/158575036-3ad3654f-879e-4008-88ff-680526ab1d18.mp4
+
+     
 <br></br>
 
 ### 2. ⚒️ Project Configuration:
+<br>
+
 ### a. Install all the needed dependencies by typing in the terminal: ```npm install```
 ### b. After installing successfully folder ```node_modules```, creating a new terminal and run this project by typing: ```npm start```. It will apppear on the browser with the default setting PORT = 3000 ```localhost:3000/```
 
