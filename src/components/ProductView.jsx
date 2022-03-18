@@ -32,7 +32,7 @@ const ProductView = (props) => {
 
   const [descriptionExpand, setDescriptionExpand] = useState(false);
 
-  const [type, setType] = useState(undefined);
+  const [type, setType] = useState(product.type);
 
   const [quantity, setQuantity] = useState(1);
 
@@ -47,7 +47,7 @@ const ProductView = (props) => {
   useEffect(() => {
     setPreviewImg(product.image01);
     setQuantity(1);
-    setType(undefined);
+    setType(product.type);
   }, [product]);
 
   const addToCart = () => {

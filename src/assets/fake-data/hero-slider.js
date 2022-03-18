@@ -11,16 +11,16 @@ const heroSliderData = [
     path: "/catalog/sofa",
   },
   {
-    title: "Modern and Professional Household Distribution",
+    title: "Professional Household",
     description:
-      "Perform any combination of light cleaning duties to maintain private households or commercial establishments, such as hotels and hospitals, in a clean and orderly manner. Duties may include making beds, replenishing linens, cleaning rooms and halls, and vacuuming. Reliable services and the best worthy household distribute organization of the world, sponsor by Fedex.",
+      "Perform any combination of light cleaning duties to maintain private households or commercial establishments, such as hotels and hospitals, in a clean and orderly manner. Duties may include making beds, replenishing linens, cleaning rooms and halls, and vacuuming. Reliable services and the best worthy household distribution of the world, sponsor by Fedex.",
     img: img1,
     path: "/",
   },
   {
     title: "Dedicated Services",
     description:
-      "Household Managers take care of the daily details of managing a home thereby freeing up time for the employer to do other things. This is a rather general job title and actual duties will vary in each situation. The more complex the residence and the standards of the home, then the more sophisticated and professional the House Manager should be. Best choice of household!",
+      "Household Managers take care of the daily details of managing a home thereby freeing up time for the employer to do other things. This is a rather general job title and actual duties will vary in each situation. The more complex the residence and the standards of the home, then the more sophisticated and professional the House Manager should be. Best choice!",
     img: img2,
     path: "/",
   },

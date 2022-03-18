@@ -11,7 +11,7 @@ const policy = [
   },
   {
     name: "12-Month Insurance",
-    description: "Ensuring 12 month insurance and warranty for all products",
+    description: "Ensuring 12 month insurance and warranty",
     icon: "bx bx-purchase-tag",
   },
   {
